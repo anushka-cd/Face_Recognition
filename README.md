@@ -1,4 +1,7 @@
 # Face_Recognition
-DMT Project for face clustering and face recognition(in 
+Data Mining Techniques Project for face clustering (in
+Face_Recognition/Finished project DMT/face_clustering/
+)
+and face recognition(in 
 Face_Recognition/Finished project DMT/Amazeee/amaze/facerecog/
 )
